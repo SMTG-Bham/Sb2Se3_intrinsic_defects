@@ -1,0 +1,1 @@
+Original plus 2 CONTCAR was corrupted, so has been recreated from vasprun.xml
