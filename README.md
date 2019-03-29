@@ -16,7 +16,7 @@ Defects were introduced, then further relaxation of the atomic positions was per
 Requirements
 ------
 
-A viewer such as [VESTA] (http://jp-minerals.org/vesta/en/) can be used to view the .vasp files, and they are in the `POSCAR` input file format useable by VASP.
+A viewer such as [VESTA] (http://jp-minerals.org/vesta/en/) can be used to view the CONTCAR files, and they are in the `POSCAR` input file format useable by VASP.
 
 
 Disclaimer
